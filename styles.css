@@ -1,0 +1,40 @@
+input[type=text],input[type=email],select,textarea{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 18px;
+
+}
+ input[type=number]{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 18px;
+    
+
+}
+button{
+    display: block;
+    color: #000;
+    padding: 14px 8px;
+    text-decoration: none;
+    width: 30%;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    border-radius: 20px;
+
+}
+button:hover{
+    background-color: #555;
+    color: white;
+    border-radius: 20px;
+}
